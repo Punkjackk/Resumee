@@ -25,6 +25,10 @@ height="200">
         <h3>Matthayom Wat that thong School </h3>
         <p>(2015-2020)</p>
     </li>
+    <li>
+        <h3>Rajamangala University of Technology Krungthep</h3>
+        <p>(2021-Present)</p>
+    </li>
 </ul>
 <hr />
 <h2>Personal Skills</h2>
@@ -60,11 +64,12 @@ height="200">
     </li>
 </ul>
 <hr />
-<h2>Contact Me</h2>
+<h2>Other</h2>
 <ul>
-    <li>Phone : +66 95 513 6809</li>
-    <li>Email  : 645021000361@mail.rmutk.ac.th</li>
-    <li>Address  : Bankok (Thailand)</li>
+    <li>
+        <a href = ./Hobbies>My Hobbies</a>
+    </li>
+    <li>
+        <a href = ./ContactMe>Contact Me</a>
+    </li>
 </ul>
-
-
